@@ -1,2 +1,2 @@
-//title: shortcuts folder
+title: shortcuts folder
 message: guys please make sure youhave a shortcuts folder a user made this mistake and thiught it was a bug please check your folder
